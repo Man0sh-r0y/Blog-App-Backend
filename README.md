@@ -158,5 +158,3 @@ npm run dev
 2. Make sure to replace `Enter the Post ID here` with actual post ID when making requests.
 
 3. You can test these routes using Postman or any other API client of your choice.
-
-Enjoy managing your blog posts with this Simple Blog App Backend!
