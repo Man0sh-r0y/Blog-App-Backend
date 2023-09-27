@@ -13,9 +13,14 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-Install Dependencies for the project:
+**Step 1**: Install Dependencies for the project:
 ```bash
 npm install
+```
+
+**Step 2**: To Run the Project
+```bash
+npm run dev
 ```
 
 ## Routes
