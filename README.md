@@ -2,6 +2,22 @@
 
 This is the backend for a Blog App that provides various functionalities for managing blog posts. You can interact with this project using Postman or any API client of your choice. If the default port (`8000`) isn't working, you can try port `5000`.
 
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js and npm installed on your development machine.
+- MongoDB installed and running.
+
+## Installation
+
+Install Dependencies for the project:
+```bash
+npm install
+```
+
 ## Routes
 
 1. **Create Post:** Create a new blog post.
